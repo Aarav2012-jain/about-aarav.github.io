@@ -1,0 +1,81 @@
+
+body {
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20210912/pngtree-aesthetic-background-pink-pastel-image_866344.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    color: black;
+}
+
+hr {
+    border: 2px solid black;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+img {
+    border: 3px solid black;
+}
+
+.flexbox {
+    display: flex;
+    padding-bottom: 2px;
+    padding-left: 50px;
+    padding-top: opx;
+    padding-right: 25px;
+}
+
+td {
+    padding-left: 40px;
+    padding-top: 0px;
+    padding-right: 40px;
+}
+.Footer First {
+    font-size: 40px;
+    text-align: center;
+}
+.hero4 {
+    display: flex;
+    padding-bottom: 2px;
+    padding-left: 50px;
+    padding-top: opx;
+    padding-right: 25px;
+}
+.Laws_48 {
+    font-size: 40px;
+}
+.th {
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 40px;
+}
+.flexbox {
+    display: flex;
+    padding-bottom: 2px;
+    padding-left: 50px;
+    padding-top: opx;
+    padding-right: 25px;
+}
+
+.Atomic {
+    font-size: 21px;
+    line-height: 165%;
+}
+
+.Atomic Img {
+    border: 0px solid black;
+}
+
+.Habit_loop {
+    background-image: url(Habit_loop.png);
+    align-items: center;
+}
+.good_habit {
+    align-items: center;
+    padding-left: 700px;
+}
